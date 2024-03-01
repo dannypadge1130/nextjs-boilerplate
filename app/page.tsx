@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Blogs from './Blogs";
+import Blogs from "./Blogs";
 
 export default function Home() {
   return (
